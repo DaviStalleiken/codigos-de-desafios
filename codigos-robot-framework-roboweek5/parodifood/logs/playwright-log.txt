@@ -1,0 +1,179 @@
+{"level":30,"time":"2021-05-07T01:04:41.339Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Listening on 55745"}
+{"level":30,"time":"2021-05-07T01:04:45.268Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Changed active context"}
+{"level":30,"time":"2021-05-07T01:04:46.933Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Video path: undefined"}
+{"level":30,"time":"2021-05-07T01:04:46.933Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Changed active page"}
+{"level":30,"time":"2021-05-07T01:04:56.084Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Retrieved text for element css=span containing Nunca foi tão engraçado pedir comida"}
+{"level":30,"time":"2021-05-07T01:04:56.288Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Retrieved text for element css=h1 strong containing Ta na hora de matar a fome!"}
+{"level":30,"time":"2021-05-07T01:04:57.499Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Retrieved text for element css=div[class=\"place-info-box\"][style=\"opacity: 1;\"] containing DEBUGER KING\n 3.5\nHamburgers\n100m"}
+{"level":30,"time":"2021-05-07T01:04:57.708Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Changed active context"}
+{"level":30,"time":"2021-05-07T01:04:57.708Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-07T01:04:57.709Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Changed active page"}
+{"level":30,"time":"2021-05-07T01:04:57.739Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Changed active context"}
+{"level":30,"time":"2021-05-07T01:04:57.739Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-07T01:04:57.739Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Changed active page"}
+{"level":30,"time":"2021-05-07T01:05:02.159Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Changed active context"}
+{"level":30,"time":"2021-05-07T01:05:03.732Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Video path: undefined"}
+{"level":30,"time":"2021-05-07T01:05:03.732Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Changed active page"}
+{"level":30,"time":"2021-05-07T01:05:11.317Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Retrieved text for element css=span containing Nunca foi tão engraçado pedir comida"}
+{"level":30,"time":"2021-05-07T01:05:11.488Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Retrieved text for element css=h1 strong containing Ta na hora de matar a fome!"}
+{"level":30,"time":"2021-05-07T01:05:12.265Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Retrieved text for element css=div[class=\"place-info-box\"][style=\"opacity: 1;\"] containing PIZZA BUG\n 4.9\nPizzaria\n25m"}
+{"level":30,"time":"2021-05-07T01:05:12.626Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Retrieved text for element css=div[class=\"place-info-box\"][style=\"opacity: 1;\"] containing STARBUGS COFFEE\n 4.8\nCafeteria\n30-40m"}
+{"level":30,"time":"2021-05-07T01:05:12.798Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Changed active context"}
+{"level":30,"time":"2021-05-07T01:05:12.798Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-07T01:05:12.798Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Changed active page"}
+{"level":30,"time":"2021-05-07T01:05:12.817Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Changed active context"}
+{"level":30,"time":"2021-05-07T01:05:12.818Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-07T01:05:12.818Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Changed active page"}
+{"level":30,"time":"2021-05-07T01:05:17.232Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Changed active context"}
+{"level":30,"time":"2021-05-07T01:05:18.747Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Video path: undefined"}
+{"level":30,"time":"2021-05-07T01:05:18.747Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Changed active page"}
+{"level":30,"time":"2021-05-07T01:05:27.888Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Retrieved text for element css=span containing Nunca foi tão engraçado pedir comida"}
+{"level":30,"time":"2021-05-07T01:05:28.087Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Retrieved text for element css=h1 strong containing Ta na hora de matar a fome!"}
+{"level":30,"time":"2021-05-07T01:05:29.472Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Changed active context"}
+{"level":30,"time":"2021-05-07T01:05:29.472Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-07T01:05:29.472Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Changed active page"}
+{"level":30,"time":"2021-05-07T01:05:29.504Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Changed active context"}
+{"level":30,"time":"2021-05-07T01:05:29.504Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-07T01:05:29.504Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Changed active page"}
+{"level":30,"time":"2021-05-07T01:05:36.275Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Changed active context"}
+{"level":30,"time":"2021-05-07T01:05:37.815Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Video path: undefined"}
+{"level":30,"time":"2021-05-07T01:05:37.815Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Changed active page"}
+{"level":30,"time":"2021-05-07T01:05:47.788Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Retrieved text for element css=span containing Nunca foi tão engraçado pedir comida"}
+{"level":30,"time":"2021-05-07T01:05:47.983Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Retrieved text for element css=h1 strong containing Ta na hora de matar a fome!"}
+{"level":30,"time":"2021-05-07T01:05:48.823Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Retrieved text for element css=#detail containing Categoria\nQuem somos\nHorários"}
+{"level":30,"time":"2021-05-07T01:05:48.891Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Retrieved text for element css=#detail containing Categoria\nCafeteria\nQuem somos\nNada melhor que um café pra te ajudar a resolver um bug.\nHorários\nFunciona de segunda à sábado, de 6h às 22h"}
+{"level":30,"time":"2021-05-07T01:05:49.499Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Retrieved text for element xpath=//th[contains(text(),\"Total\")]/..//td containing R$ 15,60"}
+{"level":30,"time":"2021-05-07T01:05:49.756Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Changed active context"}
+{"level":30,"time":"2021-05-07T01:05:49.756Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-07T01:05:49.756Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Changed active page"}
+{"level":30,"time":"2021-05-07T01:05:49.776Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Changed active context"}
+{"level":30,"time":"2021-05-07T01:05:49.776Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-07T01:05:49.776Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Changed active page"}
+{"level":30,"time":"2021-05-07T01:06:00.852Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Changed active context"}
+{"level":30,"time":"2021-05-07T01:06:02.297Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Video path: undefined"}
+{"level":30,"time":"2021-05-07T01:06:02.297Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Changed active page"}
+================= Original suppressed error =================
+page.goto: Timeout 10000ms exceeded.
+=========================== logs ===========================
+navigating to "http://parodifood.qaninja.academy/", waiting until "load"
+============================================================
+Note: use DEBUG=pw:api environment variable to capture Playwright logs.
+Error
+    at Object.captureStackTrace (c:\python39\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\utils\stackTrace.js:48:19)
+    at Connection.sendMessageToServer (c:\python39\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\connection.js:69:48)
+    at Proxy.<anonymous> (c:\python39\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\channelOwner.js:64:61)
+    at c:\python39\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\frame.js:102:65
+    at Frame._wrapApiCall (c:\python39\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\channelOwner.js:77:34)
+    at Frame.goto (c:\python39\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\frame.js:100:21)
+    at c:\python39\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\page.js:296:60
+    at Page._attributeToPage (c:\python39\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\page.js:231:20)
+    at Page.goto (c:\python39\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\page.js:296:21)
+    at c:\python39\lib\site-packages\Browser\wrapper\index.js:69788:49 {
+  name: 'TimeoutError'
+}
+=============================================================
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at Object.exists (c:\python39\lib\site-packages\Browser\wrapper\index.js:69134:15)
+    at c:\python39\lib\site-packages\Browser\wrapper\index.js:66387:41
+    at step (c:\python39\lib\site-packages\Browser\wrapper\index.js:66334:23)
+    at Object.next (c:\python39\lib\site-packages\Browser\wrapper\index.js:66315:53)
+    at c:\python39\lib\site-packages\Browser\wrapper\index.js:66309:71
+    at new Promise (<anonymous>)
+    at __webpack_modules__../node/playwright-wrapper/browser-control.ts.__awaiter (c:\python39\lib\site-packages\Browser\wrapper\index.js:66305:12)
+    at takeScreenshot (c:\python39\lib\site-packages\Browser\wrapper\index.js:66361:12)
+    at PlaywrightServer.<anonymous> (c:\python39\lib\site-packages\Browser\wrapper\index.js:67486:50)
+    at step (c:\python39\lib\site-packages\Browser\wrapper\index.js:67439:23)
+=============================================================
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at Object.exists (c:\python39\lib\site-packages\Browser\wrapper\index.js:69134:15)
+    at c:\python39\lib\site-packages\Browser\wrapper\index.js:66387:41
+    at step (c:\python39\lib\site-packages\Browser\wrapper\index.js:66334:23)
+    at Object.next (c:\python39\lib\site-packages\Browser\wrapper\index.js:66315:53)
+    at c:\python39\lib\site-packages\Browser\wrapper\index.js:66309:71
+    at new Promise (<anonymous>)
+    at __webpack_modules__../node/playwright-wrapper/browser-control.ts.__awaiter (c:\python39\lib\site-packages\Browser\wrapper\index.js:66305:12)
+    at takeScreenshot (c:\python39\lib\site-packages\Browser\wrapper\index.js:66361:12)
+    at PlaywrightServer.<anonymous> (c:\python39\lib\site-packages\Browser\wrapper\index.js:67486:50)
+    at step (c:\python39\lib\site-packages\Browser\wrapper\index.js:67439:23)
+=============================================================
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at Object.exists (c:\python39\lib\site-packages\Browser\wrapper\index.js:69134:15)
+    at c:\python39\lib\site-packages\Browser\wrapper\index.js:66387:41
+    at step (c:\python39\lib\site-packages\Browser\wrapper\index.js:66334:23)
+    at Object.next (c:\python39\lib\site-packages\Browser\wrapper\index.js:66315:53)
+    at c:\python39\lib\site-packages\Browser\wrapper\index.js:66309:71
+    at new Promise (<anonymous>)
+    at __webpack_modules__../node/playwright-wrapper/browser-control.ts.__awaiter (c:\python39\lib\site-packages\Browser\wrapper\index.js:66305:12)
+    at takeScreenshot (c:\python39\lib\site-packages\Browser\wrapper\index.js:66361:12)
+    at PlaywrightServer.<anonymous> (c:\python39\lib\site-packages\Browser\wrapper\index.js:67486:50)
+    at step (c:\python39\lib\site-packages\Browser\wrapper\index.js:67439:23)
+=============================================================
+{"level":30,"time":"2021-05-07T01:06:12.348Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Changed active context"}
+{"level":30,"time":"2021-05-07T01:06:12.357Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Changed active context"}
+{"level":30,"time":"2021-05-07T01:06:25.446Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Changed active context"}
+{"level":30,"time":"2021-05-07T01:06:26.980Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Video path: undefined"}
+{"level":30,"time":"2021-05-07T01:06:26.980Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Changed active page"}
+================= Original suppressed error =================
+page.goto: Timeout 10000ms exceeded.
+=========================== logs ===========================
+navigating to "http://parodifood.qaninja.academy/", waiting until "load"
+============================================================
+Note: use DEBUG=pw:api environment variable to capture Playwright logs.
+Error
+    at Object.captureStackTrace (c:\python39\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\utils\stackTrace.js:48:19)
+    at Connection.sendMessageToServer (c:\python39\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\connection.js:69:48)
+    at Proxy.<anonymous> (c:\python39\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\channelOwner.js:64:61)
+    at c:\python39\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\frame.js:102:65
+    at Frame._wrapApiCall (c:\python39\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\channelOwner.js:77:34)
+    at Frame.goto (c:\python39\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\frame.js:100:21)
+    at c:\python39\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\page.js:296:60
+    at Page._attributeToPage (c:\python39\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\page.js:231:20)
+    at Page.goto (c:\python39\lib\site-packages\Browser\wrapper\node_modules\playwright\lib\client\page.js:296:21)
+    at c:\python39\lib\site-packages\Browser\wrapper\index.js:69788:49 {
+  name: 'TimeoutError'
+}
+=============================================================
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at Object.exists (c:\python39\lib\site-packages\Browser\wrapper\index.js:69134:15)
+    at c:\python39\lib\site-packages\Browser\wrapper\index.js:66387:41
+    at step (c:\python39\lib\site-packages\Browser\wrapper\index.js:66334:23)
+    at Object.next (c:\python39\lib\site-packages\Browser\wrapper\index.js:66315:53)
+    at c:\python39\lib\site-packages\Browser\wrapper\index.js:66309:71
+    at new Promise (<anonymous>)
+    at __webpack_modules__../node/playwright-wrapper/browser-control.ts.__awaiter (c:\python39\lib\site-packages\Browser\wrapper\index.js:66305:12)
+    at takeScreenshot (c:\python39\lib\site-packages\Browser\wrapper\index.js:66361:12)
+    at PlaywrightServer.<anonymous> (c:\python39\lib\site-packages\Browser\wrapper\index.js:67486:50)
+    at step (c:\python39\lib\site-packages\Browser\wrapper\index.js:67439:23)
+=============================================================
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at Object.exists (c:\python39\lib\site-packages\Browser\wrapper\index.js:69134:15)
+    at c:\python39\lib\site-packages\Browser\wrapper\index.js:66387:41
+    at step (c:\python39\lib\site-packages\Browser\wrapper\index.js:66334:23)
+    at Object.next (c:\python39\lib\site-packages\Browser\wrapper\index.js:66315:53)
+    at c:\python39\lib\site-packages\Browser\wrapper\index.js:66309:71
+    at new Promise (<anonymous>)
+    at __webpack_modules__../node/playwright-wrapper/browser-control.ts.__awaiter (c:\python39\lib\site-packages\Browser\wrapper\index.js:66305:12)
+    at takeScreenshot (c:\python39\lib\site-packages\Browser\wrapper\index.js:66361:12)
+    at PlaywrightServer.<anonymous> (c:\python39\lib\site-packages\Browser\wrapper\index.js:67486:50)
+    at step (c:\python39\lib\site-packages\Browser\wrapper\index.js:67439:23)
+=============================================================
+================= Original suppressed error =================
+Error: Tried to take screenshot, but no page was open.
+    at Object.exists (c:\python39\lib\site-packages\Browser\wrapper\index.js:69134:15)
+    at c:\python39\lib\site-packages\Browser\wrapper\index.js:66387:41
+    at step (c:\python39\lib\site-packages\Browser\wrapper\index.js:66334:23)
+    at Object.next (c:\python39\lib\site-packages\Browser\wrapper\index.js:66315:53)
+    at c:\python39\lib\site-packages\Browser\wrapper\index.js:66309:71
+    at new Promise (<anonymous>)
+    at __webpack_modules__../node/playwright-wrapper/browser-control.ts.__awaiter (c:\python39\lib\site-packages\Browser\wrapper\index.js:66305:12)
+    at takeScreenshot (c:\python39\lib\site-packages\Browser\wrapper\index.js:66361:12)
+    at PlaywrightServer.<anonymous> (c:\python39\lib\site-packages\Browser\wrapper\index.js:67486:50)
+    at step (c:\python39\lib\site-packages\Browser\wrapper\index.js:67439:23)
+=============================================================
+{"level":30,"time":"2021-05-07T01:06:37.008Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Changed active context"}
+{"level":30,"time":"2021-05-07T01:06:37.018Z","pid":13940,"hostname":"DESKTOP-1ADHU2C","msg":"Changed active context"}
